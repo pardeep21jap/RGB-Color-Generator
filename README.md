@@ -1,0 +1,2 @@
+# RGB-Color-Generator
+This is my first Git Repository
